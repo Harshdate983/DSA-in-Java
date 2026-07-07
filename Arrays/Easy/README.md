@@ -4,5 +4,6 @@ This folder contains easy array problems solved in Java.
 
 ## Problems
 
-| # | Problem | Approach | Status |
-|---|---------|----------|--------|
+| # | Problem |   Approach  | Status |
+|---|---------|-------------|--------|
+| 1 | Two Sum | Brute Force |   ✅   |
