@@ -41,7 +41,7 @@ This repository documents my journey of learning DSA in Java for software engine
 
 | Topic | Problems Solved |
 |--------|----------------:|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
