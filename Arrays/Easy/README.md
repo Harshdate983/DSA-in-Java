@@ -8,3 +8,4 @@ This folder contains easy array problems solved in Java.
 |---|---------|-------------|--------|
 | 1 | Two Sum | Brute Force |   ✅   |
 | 2 | Remove Duplicates from Sorted Array | Two Pointers | ✅ |
+| 3 | CheckIfArrayIsSortedAndRotated | Count Inversions |   ✅   |
